@@ -297,7 +297,7 @@ body{
 	<div id="cspio-page">
 		<div id="cspio-content">
 						    			    			    				
-						    			    <h1 id="cspio-headline">Coming Soon</h1>			    				
+						    			    <h1 id="cspio-headline">laferia.cr</h1>			    				
 						    			    <div id="cspio-description">Get ready! Something really cool is coming!</div>			    				
 						    			    			    				
 						    			    			    				
